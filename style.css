@@ -1,0 +1,60 @@
+body{
+
+    font-family: "Open San", sans-serif;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+
+}
+
+main{
+    align-items: center;
+    width: 626px;
+    height: 486px;
+    margin: 64px 199px 199px 240px;
+    justify-content: center;
+    justify-items: center;
+}
+
+h1{
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #3F3D56;
+}
+
+#highlight_word{
+
+    color: #EE24FF;
+
+}
+
+p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* or 147% */
+
+    text-align: center;
+
+    color: #828282;
+}
+
+span{
+    font-weight: bold;
+}
+
+.txt_bold{
+    color: #3F3D56;
+}
+
+footer{
+
+}
